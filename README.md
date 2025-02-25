@@ -1,1 +1,1 @@
-site sobre Skate
+site sobre faroeste
