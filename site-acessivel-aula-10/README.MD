@@ -1,4 +1,4 @@
-# Site acessível sobre Faroeste
+# Site acessível sobre o Faroeste
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
